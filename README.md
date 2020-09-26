@@ -42,3 +42,6 @@ The script creates a graph of the Weather forecast for the given city.
 	* Takes *city_name* and *compiled_data* as parameters
 * Returned Values
 	* Creates a graph with __pyplot__ of the following data 
+
+## Following in an example ##
+![New Jeysey Weather](https://i.imgur.com/kAA4uXR.png)
